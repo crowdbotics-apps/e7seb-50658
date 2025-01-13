@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-qr-code](modules/qr-code)
 - [django-core](backend/modules)
 - [django-disqus](backend/modules)
+- [social-feed]()
 
 # Getting started: Frontend
 
